@@ -15,7 +15,7 @@
   <a href= "#"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 </div>
 
-![Snake animation](https://github.com/joaomiguelg/joaomiguelg/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/joaomiguelg/joaomiguelg/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
