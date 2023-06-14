@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 
-![Snake animation](https://github.com/joaomiguelg/joaomiguelg/blob/output/github-contribution-grid-snake.svg)
 
 
 
