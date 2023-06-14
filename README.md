@@ -4,7 +4,7 @@
 ##
 
 
-[![joaomiguelg's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomiguelg&theme=tokyonight&rank_icon=github)](https://github.com/joaomiguelg/github-readme-stats)
+[![joaomiguelg's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomiguelg&theme=dark&rank_icon=github)](https://github.com/joaomiguelg/github-readme-stats)
 
 ##
 
