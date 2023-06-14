@@ -1,14 +1,5 @@
 ### Hi there, welcome to my github! 👋
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=joaomiguelg&show_icons=true&theme=radical&theme=transparent"
@@ -16,7 +7,11 @@
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=joaomiguelg&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme:dark), (prefers-color-scheme: dark)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=joaomiguelg&show_icons=true" />
 </picture>
+<div>
+  <a href= "#"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
+</div>
+
