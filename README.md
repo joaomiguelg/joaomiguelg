@@ -26,7 +26,5 @@
 
 
 
-![Snake animation](https://github.com/joaomiguelg/joaomiguelg/blob/output/github-contribution-grid-snake.svg)
-
 
 
